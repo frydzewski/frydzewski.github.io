@@ -7,7 +7,7 @@ body,
 }
 
 .view {
-    background: url("frydzewski.github.io/img/1.png")no-repeat center center fixed;
+    background: url("https://frydzewski.github.io/img/1.png")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
